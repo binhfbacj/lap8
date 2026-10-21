@@ -10,7 +10,7 @@
 * **Mã số sinh viên (MSSV)**: 23010425
 * **Lớp sinh hoạt / Học phần**: IT5
 * **Giảng viên hướng dẫn**: Thầy/Cô Phụ trách Học phần
-* **Đường dẫn Repository**: `https://github.com/lnbaobao66/jmeter-performance-testing`
+* **Đường dẫn Repository**: `https://github.com/binhfbacj/lap8`
 * **Hệ thống thử nghiệm**: BlazeDemo Flight Booking Agency (`https://blazedemo.com`)
 * **Ngày hoàn thành**: Tháng 10/2026
 
